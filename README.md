@@ -35,10 +35,16 @@ we will find the answers through applying SQL queries
 
 •	USA is the country which has the most invoices.
 <br>
+<img width="869" height="402" alt="image" src="https://github.com/user-attachments/assets/7e6418b1-853d-4da7-95e2-1f6520edcee4" />
+
 •	Rock Music is the most preferred Genre
 <br>
+<img width="829" height="644" alt="image" src="https://github.com/user-attachments/assets/4f90b890-ce23-4a1b-a6d8-f03cbe1ec383" />
+
 •	Queen is the best-selling-artist
 <br>
 •	R Madhav is the customer who has been awarded for being the best customer in terms of spending most on the music. 
+<img width="1424" height="339" alt="image" src="https://github.com/user-attachments/assets/08226127-43e8-4c2c-9a50-5f3c22312a4d" />
+
 
 
