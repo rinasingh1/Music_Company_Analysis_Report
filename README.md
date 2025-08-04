@@ -1,9 +1,13 @@
-# Music_Company_Analysis_Report_Using_Postgresql-
-
+# Music_Company_Analysis_Report_Using_Postgresql
+## Objective : 
+There is a music company wants to throw a Promotional Music Festival in a city to promote their company.
+## Questions 
 
 •	Who is the senior most employee based on the job title?
 <br>
-•	Which country has the most invoices? 
+<img width="869" height="402" alt="image" src="https://github.com/user-attachments/assets/28a98833-fbb6-43bd-9249-fdc831ceffa6" />
+
+•	Which country has the most invoices?
 <br>
 •	What are the top 3 values of the total invoice?
 <br>
