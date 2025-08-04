@@ -2,6 +2,7 @@
 ## Objective : 
 There is a music company wants to throw a Promotional Music Festival in a city to promote their company.
 ## Questions 
+we will find the answers through applying SQL queries
 
 •	Who is the senior most employee based on the job title?
 <br>
@@ -24,6 +25,7 @@ There is a music company wants to throw a Promotional Music Festival in a city t
 •	we want to find out the most popular music genre for each country. we determine the most popular genre as the genre with the highest amount of purcahses. write a query that returns each country along with the top Genre.
 <br>
 •	write a query that determines the customer that has spent the most on music for each country. write a query that returns the country along with the top spending customers and how much they spent.
+
 
 
 
