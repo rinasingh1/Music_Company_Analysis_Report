@@ -39,10 +39,13 @@ we will find the answers through applying SQL queries
 
 •	Rock Music is the most preferred Genre
 <br>
-<img width="829" height="644" alt="image" src="https://github.com/user-attachments/assets/4f90b890-ce23-4a1b-a6d8-f03cbe1ec383" />
+<img width="829" height="644" alt="image" src="https://github.com/user-attachments/assets/c5dbb9fa-e181-48ce-8464-73b83526c5a4" />
+
 
 •	Queen is the best-selling-artist
 <br>
+<img width="1706" height="832" alt="image" src="https://github.com/user-attachments/assets/5007723b-8afb-4c71-9925-ebfdf61e9f9c" />
+
 •	R Madhav is the customer who has been awarded for being the best customer in terms of spending most on the music. 
 <img width="1424" height="339" alt="image" src="https://github.com/user-attachments/assets/08226127-43e8-4c2c-9a50-5f3c22312a4d" />
 
