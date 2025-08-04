@@ -26,6 +26,6 @@ we will find the answers through applying SQL queries
 <br>
 •	write a query that determines the customer that has spent the most on music for each country. write a query that returns the country along with the top spending customers and how much they spent.
 
-
+<a href ="https://github.com/rinasingh1/Music_Company_Analysis_Report_Using_Postgresql-/blob/main/Music%20Company%20Analysis%20Report.pptx">View Questions through Sql Queries</a>
 
 
