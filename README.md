@@ -34,6 +34,11 @@ we will find the answers through applying SQL queries
 <br>
 <img width="1347" height="913" alt="image" src="https://github.com/user-attachments/assets/7effb7c9-448e-4b26-8932-7865e4333a5c" />
 
+## Rock Music is the most preferred Genre
+<br>
+<img width="829" height="644" alt="image" src="https://github.com/user-attachments/assets/c5dbb9fa-e181-48ce-8464-73b83526c5a4" />
+
+
 
 ## Prague is the city the company made the most profit from. 
 <br>
@@ -42,10 +47,6 @@ we will find the answers through applying SQL queries
 ## USA is the country which has the most invoices.
 <br>
 <img width="869" height="402" alt="image" src="https://github.com/user-attachments/assets/7e6418b1-853d-4da7-95e2-1f6520edcee4" />
-
-## Rock Music is the most preferred Genre
-<br>
-<img width="829" height="644" alt="image" src="https://github.com/user-attachments/assets/c5dbb9fa-e181-48ce-8464-73b83526c5a4" />
 
 
 ## Queen is the best-selling-artist
