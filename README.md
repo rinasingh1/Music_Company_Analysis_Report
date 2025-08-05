@@ -53,7 +53,7 @@ we will find the answers through applying SQL queries
 <br>
 <img width="1706" height="832" alt="image" src="https://github.com/user-attachments/assets/5007723b-8afb-4c71-9925-ebfdf61e9f9c" />
 
-## R Madhav is the customer who has been awarded for being the best customer in terms of spending most on the music. 
+## R Madhav is the customer who has been awarded for being the best customer in terms of spending the most on music. 
 <img width="1424" height="339" alt="image" src="https://github.com/user-attachments/assets/08226127-43e8-4c2c-9a50-5f3c22312a4d" />
 
 ## Conclusion 
