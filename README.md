@@ -22,7 +22,7 @@ we will find the answers through applying SQL queries
 <br>
 •	Find how much amount has been spent by each customer on an artist to be a best-selling-artist
 <br>
-•	we want to find out the most popular music genre for each country. we determine the most popular genre as the genre with the highest amount of purcahses. write a query that returns each country along with the top Genre.
+•	We want to find out the most popular music genre for each country. we determine the most popular genre as the genre with the highest amount of purcahses. write a query that returns each country along with the top Genre.
 <br>
 •	Which genre is the most preferred?
 <br>
