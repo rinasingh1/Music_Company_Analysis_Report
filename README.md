@@ -1,6 +1,6 @@
 # A Music Company Analysis Report Using Postgresql
 ## Objective : 
-There is a music company wants to throw a Promotional Music Festival in a city to promote their company.
+There is a music company wants to throw a Promotional Music Festival in a city to promote the company.
 ## Questions 
 we will find the answers through applying SQL queries
 
