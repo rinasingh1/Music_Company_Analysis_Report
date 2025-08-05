@@ -12,19 +12,21 @@ we will find the answers through applying SQL queries
 <br>
 •	Which city has the greatest number of customers? We would like to throw a promotional Music Festival in the city we made the most money from. 
 <br>
-•	who is the best customer? The customer who has spent the most money will be declared the best customer.  
+•	Who is the best customer? The customer who has spent the most money will be declared the best customer.  
 <br>
 •	Write a query to return the email, first name, last name, and genre of all Rock Music listeners. Return the list ordered alphabatically with email starting with “ A ” 
 <br>
 •	Let's invite the artists who have written the most rock music in our dataset. write a query that returns the artist names and total track count of the top 10 bands 
 <br>
-•	return all the track names that have a song length longer than the average song length. return the name and milliseconds for each track ordered by the song length with the longest songs listed first.
+•	Return all the track names that have a song length longer than the average song length. return the name and milliseconds for each track ordered by the song length with the longest songs listed first.
 <br>
-•	find how much amount has been spent by each customer on an artist to be a best-selling-artist
+•	Find how much amount has been spent by each customer on an artist to be a best-selling-artist
 <br>
 •	we want to find out the most popular music genre for each country. we determine the most popular genre as the genre with the highest amount of purcahses. write a query that returns each country along with the top Genre.
 <br>
-•	write a query that determines the customer that has spent the most on music for each country. write a query that returns the country along with the top spending customers and how much they spent.
+•	Which genre is the most preferred?
+<br>
+•	Write a query that determines the customer that has spent the most on music for each country. write a query that returns the country along with the top spending customers and how much they spent.
 
 <a href ="https://github.com/rinasingh1/Music_Company_Analysis_Report_Using_Postgresql-/blob/main/Music%20Company%20Analysis%20Report.pptx">View Questions through Sql Queries</a>
 ## Project Insight
@@ -57,7 +59,7 @@ we will find the answers through applying SQL queries
 <img width="1424" height="339" alt="image" src="https://github.com/user-attachments/assets/08226127-43e8-4c2c-9a50-5f3c22312a4d" />
 
 ## Conclusion 
-the most preferred music genre is the rock music that is at the top in almost all of the countries in this dataset. The company should promote this music by engaging artists of this genre. 
+The most preferred music genre is the rock music that is at the top in almost all of the countries in this dataset. The company should promote this music by inviting and engaging artists of this genre. 
 
 
 
