@@ -55,5 +55,8 @@ we will find the answers through applying SQL queries
 ## R Madhav is the customer who has been awarded for being the best customer in terms of spending most on the music. 
 <img width="1424" height="339" alt="image" src="https://github.com/user-attachments/assets/08226127-43e8-4c2c-9a50-5f3c22312a4d" />
 
+## Conclusion 
+the most preferred music genre is the rock music that is at the top in almost all of the countries in this dataset. The company should promote this music by engaging artists of this genre. 
+
 
 
