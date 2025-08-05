@@ -29,6 +29,7 @@ we will find the answers through applying SQL queries
 <a href ="https://github.com/rinasingh1/Music_Company_Analysis_Report_Using_Postgresql-/blob/main/Music%20Company%20Analysis%20Report.pptx">View Questions through Sql Queries</a>
 ## Project Insight
 <br>
+
 ## Prague is the city the company made the most profit from. 
 <br>
 <img width="869" height="377" alt="image" src="https://github.com/user-attachments/assets/8ca50a1c-d3ac-40d6-bbcb-71801af0a2ef" />
