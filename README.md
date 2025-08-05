@@ -29,24 +29,24 @@ we will find the answers through applying SQL queries
 <a href ="https://github.com/rinasingh1/Music_Company_Analysis_Report_Using_Postgresql-/blob/main/Music%20Company%20Analysis%20Report.pptx">View Questions through Sql Queries</a>
 ## Project Insight
 <br>
-•	Prague is the city the company made the most profit from. 
+## Prague is the city the company made the most profit from. 
 <br>
 <img width="869" height="377" alt="image" src="https://github.com/user-attachments/assets/8ca50a1c-d3ac-40d6-bbcb-71801af0a2ef" />
 
-•	USA is the country which has the most invoices.
+## USA is the country which has the most invoices.
 <br>
 <img width="869" height="402" alt="image" src="https://github.com/user-attachments/assets/7e6418b1-853d-4da7-95e2-1f6520edcee4" />
 
-•	Rock Music is the most preferred Genre
+## Rock Music is the most preferred Genre
 <br>
 <img width="829" height="644" alt="image" src="https://github.com/user-attachments/assets/c5dbb9fa-e181-48ce-8464-73b83526c5a4" />
 
 
-•	Queen is the best-selling-artist
+## Queen is the best-selling-artist
 <br>
 <img width="1706" height="832" alt="image" src="https://github.com/user-attachments/assets/5007723b-8afb-4c71-9925-ebfdf61e9f9c" />
 
-•	R Madhav is the customer who has been awarded for being the best customer in terms of spending most on the music. 
+## R Madhav is the customer who has been awarded for being the best customer in terms of spending most on the music. 
 <img width="1424" height="339" alt="image" src="https://github.com/user-attachments/assets/08226127-43e8-4c2c-9a50-5f3c22312a4d" />
 
 
