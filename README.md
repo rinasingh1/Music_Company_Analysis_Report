@@ -31,7 +31,8 @@ we will find the answers through applying SQL queries
 <br>
 
 ## we want to find out the most popular music genre for each country. we determine the most popular genre as the genre with the highest amount of purcahses. write a query that returns each country along with the top Genre.
-<img width="3469" height="81" alt="image" src="https://github.com/user-attachments/assets/3f720157-afd4-4410-bc19-84c1033633ef" />
+<br>
+<img width="1347" height="913" alt="image" src="https://github.com/user-attachments/assets/7effb7c9-448e-4b26-8932-7865e4333a5c" />
 
 
 ## Prague is the city the company made the most profit from. 
