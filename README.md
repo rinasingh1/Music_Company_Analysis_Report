@@ -62,4 +62,3 @@ we will find the answers through applying SQL queries
 The most preferred music genre is the rock music that is at the top in almost all of the countries in this dataset. The company should promote this music by inviting and engaging artists of this genre. 
 
 
-
